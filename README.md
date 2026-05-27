@@ -20,7 +20,13 @@ A modern, feature-rich implementation of the classic Minesweeper game built comp
 / <img width="498" height="464" alt="image" src="https://github.com/user-attachments/assets/066ba001-d321-4a44-8350-cd767b21ab7d" /> / <img width="495" height="466" alt="image" src="https://github.com/user-attachments/assets/d4bed663-acb8-4c07-9d7d-d235895a4909" />
 <img width="693" height="776" alt="image" src="https://github.com/user-attachments/assets/a7a8444c-8a48-4fca-91ab-22805031dabc" /> / <img width="696" height="781" alt="image" src="https://github.com/user-attachments/assets/ba6cea6d-dce7-49bd-9725-e3c7021fb9c2" />
 <img width="493" height="462" alt="image" src="https://github.com/user-attachments/assets/4697074f-be9d-48b0-b850-4bdb94a065f7" /> / <img width="490" height="467" alt="image" src="https://github.com/user-attachments/assets/0c59cf3b-15e4-482c-bcaf-f3f9d576d1b6" />
-
- 
-
 *
+
+## 🚀 Future Roadmap
+
+This project is actively developed. Here are the planned features for upcoming versions:
+
+* **🖼️ Custom Visual Assets:** Replacing standard text with custom graphics/sprites for mines (`*`) and flags (`F`).
+* **🎵 Immersive Audio Experience:** Integrating sound effects for clicks, mine explosions, and victory screens, along with background music options.
+* **🗄️ SQL Database Integration:** Migrating the current file-based score system (`scores_pro.txt`) to a robust SQL database layer for more secure and scalable leaderboard management.
+* **📦 Standalone Executable:** Packaging the entire Java application into a native standalone `.exe` installer for Windows deployment without requiring pre-installed Java environments.
